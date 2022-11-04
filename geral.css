@@ -19,4 +19,28 @@
     color: blanchedalmond;
     border-radius: 5px;
     padding: 3px;
+} 
+
+.calculadora button {
+    margin-top:10px;
+    background: bisque;
+    color: black;
+    padding: 4px;
+}
+
+.calculadora button:hover  {
+    background: rgb(149, 119, 81);
+    color: black;
+    cursor: pointer;
+}
+
+#splistaMeses {
+    text-align: start;
+    border-style: dotted;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    color: black;
+    background: whitesmoke;
+    margin-top: 10px;
+    
 }
